@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1760540333571,
+    "description" : "git integration demo",
+    "identifier" : "gitintegration",
+    "lastModifiedTimestamp" : 1760540333571,
+    "name" : "git_integration",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
